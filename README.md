@@ -1,1 +1,2 @@
-"# pandas_demo_nb" 
+My Pandas Notebook
+Practice commands
